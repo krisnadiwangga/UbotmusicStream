@@ -17,17 +17,7 @@ from config import HNDLR, bot, call_py
 from MusicAndVideo.helpers.queues import QUEUE, add_to_queue, get_queue
 
 AMBILFOTO = [
-    "https://telegra.ph/file/cbdd8b864c39b394de8f6.jpg",
-    "https://telegra.ph/file/24126cf48ed2bc9f6ee60.jpg",
-    "https://telegra.ph/file/9e8adc4d38dc05e913fd1.jpg",
-    "https://telegra.ph/file/806b59d49aa0e326a3184.jpg",
-    "https://telegra.ph/file/83939bc9832dff8a83682.jpg",
-    "https://telegra.ph/file/2aef497654499534d94de.jpg",
-    "https://telegra.ph/file/7141b55e33b69a434f8c5.jpg",
-    "https://telegra.ph/file/cbce4a97105ee1debdf91.jpg",
-    "https://telegra.ph/file/7001368a78193f179bd67.jpg",
-    "https://telegra.ph/file/1d1748506600b2da206c8.jpg",
-    "https://telegra.ph/file/d081b03640c7cb4247b17.jpg",
+    "https://telegra.ph/file/69dc71b471161f273960e.jpg",
 ]
 
 IMAGE_THUMBNAIL = random.choice(AMBILFOTO)
